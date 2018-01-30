@@ -1,2 +1,2 @@
-hello world git
-git is free software
+hello world windows git 
+git is linus free software
